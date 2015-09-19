@@ -1,0 +1,20 @@
+.rock,
+.paper,
+.scissors {
+  float: left !important;
+  size: 50% !important;
+  margin-left: 150px;
+}
+
+body{
+  height:600px !important;
+}
+
+#para{
+  text-align: center !important;
+  margin-top: 300px !important;
+} 
+
+#direction{
+  text-align: center !important;
+}
